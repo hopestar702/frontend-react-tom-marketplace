@@ -1,22 +1,3 @@
-# Chat Loop
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/smilegupta)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/smilegupta) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/smilegupta)
-
-Chat Loop is a highly scalable, low cost and high performant chat application built on AWS and React leveraging GraphQL subscriptions for real time communication.
-
-## Project Overview
-
-
-## Application Links
-
-Frontend Code -> [https://github.com/smilegupta/chatloop-frontend](https://github.com/smilegupta/chatloop-frontend)
-<br>
-Deployed URL -> [https://chat-loop.smilegupta.tech/](https://chat-loop.smilegupta.tech/)
-<br>
-Backend Code -> [https://github.com/smilegupta/chatloop-backend](https://github.com/smilegupta/chatloop-backend)
-<br>
-API Docs -> [https://kb4r9.csb.app/](https://kb4r9.csb.app/)
-
 ## Tech Stack
 
 <b>Frontned</b>: Reactjs
@@ -53,8 +34,3 @@ API Docs -> [https://kb4r9.csb.app/](https://kb4r9.csb.app/)
 - Delete a message
 - Support for sharing images and files
 - Edit personal profile details like name and profile image
-
-
-***Glad to see you here! Show some love by [starring](https://github.com/smilegupta/chatloop-frontend/) this repo.***
-
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=facebook&style=flat&logoColor=white&colorA=blue)](https://www.facebook.com/smileguptaaa)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@smileguptaaa&color=grey&logo=instagram&style=flat&logoColor=white&colorA=blue)](https://www.instagram.com/smileguptaaa/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=grey&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/smilegupta/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@smileguptaaa&color=grey&logo=twitter&style=flat&logoColor=white&colorA=blue)](https://twitter.com/smileguptaaa)
